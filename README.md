@@ -1,0 +1,3 @@
+# agile_es_springboot_data_elasticsearch
+
+应用spring-boot-starter-data-elasticsearch包进行es开发的demo
